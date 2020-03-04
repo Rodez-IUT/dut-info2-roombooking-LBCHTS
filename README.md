@@ -1,7 +1,7 @@
 # API XML - Web Services 
 
-### NOM : DOE
-### Prénom : John
+### NOM : BEAUCHAINTS
+### Prénom : Loïc
 ### Groupe de TP : 
 - [x] 1
 
