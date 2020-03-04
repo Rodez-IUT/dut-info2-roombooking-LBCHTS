@@ -38,6 +38,7 @@ public class RoomBookingBasicSaxParser  {
                                  Attributes atts)
                 throws SAXException {
             System.out.println("In element: "+localName);
+
         }
 
         public void characters(char ch[], int start, int length)
